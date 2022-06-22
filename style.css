@@ -1,0 +1,28 @@
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 5px 10px 0 rgba(0,0,0,0.5);
+  border: 2px solid black;
+  transition: 0.3s;
+}
+
+.card-full {
+  min-height: 555px;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
+}
+
+element.style {
+  height: 561px;
+  display: flex;
+}
+
+.hidden {
+  visibility: hidden;
+  }
+
+
+
+
